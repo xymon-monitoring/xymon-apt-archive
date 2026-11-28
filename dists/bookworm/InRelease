@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64 arm64
+Codename: bookworm
+Components: main
+Date: Sat, 28 Nov 2026 08:01:57 +0000
+Label: Xymon
+Origin: xymon-apt
+Suite: bookworm
+MD5Sum:
+ 32455bef3801e21172b0fce8b330bf2f             2894 main/binary-amd64/Packages
+ 4ff7394db43c75db5e6d312f180f377a             1475 main/binary-amd64/Packages.gz
+ f719b5a97939f0eae964936dcb60a3f3             2894 main/binary-arm64/Packages
+ 3a35b16e8b5a23f9250db9ad77916d2d             1477 main/binary-arm64/Packages.gz
+SHA1:
+ 061c86c173a4f0dcb24c78f4134dc5ddc5840f7b             2894 main/binary-amd64/Packages
+ 09ac25e3708bbf641c6da60e1b2d0a9c20aff21c             1475 main/binary-amd64/Packages.gz
+ 7dd162f3eee91b42e300e28e16d714d6fb85fd7b             2894 main/binary-arm64/Packages
+ 9933d971778f7b31b6d82b519eaecd3fb226507f             1477 main/binary-arm64/Packages.gz
+SHA256:
+ 4d7f29e59ae3bdb49849bd4075e2c9148bf6d696a9ec48d784c4098076957718             2894 main/binary-amd64/Packages
+ 25b9596593f9ff9f70f8cf1882363042cd6598d9878e5ce117dd46b33b4596e2             1475 main/binary-amd64/Packages.gz
+ 9c0ce72fb630aac8c02ba8bd8b01f1430a443968f55687b0cf61b66f9ebefa05             2894 main/binary-arm64/Packages
+ 5a75c221be3ed22425dd9ead59b1a6b70510cdb674c645f57a4e4352091892f1             1477 main/binary-arm64/Packages.gz
+SHA512:
+ f742f76181cfdd7f9bcf1a55137fd4a4a84029f0d68fe0d13febbfc8d4f1e8f1f5e7bc1c053c2706cfdae9097746f832783e26ebe785f9ba463de0a723054469             2894 main/binary-amd64/Packages
+ bf68a995824b896013a5ff481ec01b0497529956df88cccffce64e9eae75e2a242e372282036b7b620451b7d804a7a4530ed34c49709bc2972a6d4f0a56e8d49             1475 main/binary-amd64/Packages.gz
+ e71b260c4974de00998d648d605bfcdb56d2a34819a24780d52f76a690c089907a40c2db4395c40648bb45ff8f2471fa2b31d47d441a68d2a745e1a7477635ce             2894 main/binary-arm64/Packages
+ a81c2158f9c829184ff02831f2c10afd4da1edd45b3099944ff1dd6b4e12a5944f79828faaa255486556305e945e7502287a8d0896b330180826b627b75f7aeb             1477 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEvST7hxVNVhtm9mbfY53pI6oIkEoFAmsKinUACgkQY53pI6oI
+kEqxPg/+JQcuTVxyk195ZUro0ybw16eqSPI63WO5ozebiZZgcbSEBLoTRZeheg0P
+W+lYNi3l/354nGtytNzbVYSFvnMWLeh7DO06XiIguYZguMZE1dXJBlWgKwTJSwIx
+yeMelRZPRut5WPiwuWFJ0eiryz3uCwSaWtIxms7Kc1rmo6XXFAel5GW40oHwzjY7
+JIXlW/ksUcDFFOF+cCnrkGAS5bsQTzYkddNALusm1ZcvMvuDUmJrH/lgE+Oub8kj
+SRCFLx8FYrOqnBgc7OVrxwWckyoegKijATI7/mKptCAD79JM9G8BAPPh1PHRUsCp
+V7qGBSsXrGIERmXfDrpb63zdyV7RiLTgwPho4vHWAIoOm7XTmIhdu0ea5bT/RAUy
+db9+E1TiqFvQoBzf+4L54iXE8+zxgMNhctSbgJUtaI0WZcn612nPdmvAmA74u+Vr
+L4P7B2JAwCNoHtb8hYhEx6bSPIt6NghpvYPWypg9hBcQ3a1lHi1I8WXXqm6MImks
+y3IjP1F5I8OwRe59E4xjWT26PClvng27eapYFLU0pzM7aPguofmspu6GxNF7QVPB
+hn56MHuoL6KQ0j+vI3WX5E8RxsXH3gcsS90aH0AjhYnMCk6ybEI50e11b2RDvbJU
+nfZvsYSF28EzVeQcIQYQWfNToS9sLWzv4W+OfXl+N5EwnPer7rA=
+=zvUo
+-----END PGP SIGNATURE-----

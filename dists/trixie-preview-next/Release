@@ -1,0 +1,27 @@
+Architectures: amd64 arm64
+Codename: trixie-preview-next
+Components: main
+Date: Sat, 28 Nov 2026 08:01:58 +0000
+Label: Xymon
+Origin: xymon-apt
+Suite: trixie-preview-next
+MD5Sum:
+ bab3a7f9c36cfd476e47aa6ea9f8a0b9             3168 main/binary-amd64/Packages
+ d935bdf61e8caf6c772282c29711fcab             1540 main/binary-amd64/Packages.gz
+ b04306839f9ad4910871fbd3e8a24684             3168 main/binary-arm64/Packages
+ 4bd390f667658624396e08d6fa0db8c4             1540 main/binary-arm64/Packages.gz
+SHA1:
+ 508dc8759bb49ef7dee15805986b432b6f71431b             3168 main/binary-amd64/Packages
+ ad4e05b4c3e1347399db63f686305216fc8973b9             1540 main/binary-amd64/Packages.gz
+ aeffa799e3fff2bbe2a4443247c811fb1e679616             3168 main/binary-arm64/Packages
+ c7b32d8f08f55e06a59c25cf12b0ddaf82b02bf3             1540 main/binary-arm64/Packages.gz
+SHA256:
+ f82851e375f74f5155a423912432e271175e875436de399ebea5b25892bbae71             3168 main/binary-amd64/Packages
+ 61df06dc8f702e0d2b67ab49bd76f5b1ace3cec2eda7f13e18476345ce6191e0             1540 main/binary-amd64/Packages.gz
+ c81da3f0460888b3893da28ab6882cf31ae4344e01fbcfe2bebf2e1af1c8aeec             3168 main/binary-arm64/Packages
+ a0d8a43236a66dcadbb216c24742564512807101c3feb3569127be5f00898549             1540 main/binary-arm64/Packages.gz
+SHA512:
+ 2e5718d4d7fd92f3809fe1301b928979e1abb6cefb26d6ba091d5b2e1e6e7f755a167bc70f7ded04de6efe5185329a57f377555c8ec7bc1c7bd8d1df847efee5             3168 main/binary-amd64/Packages
+ 8e62069514df0fe371be9616f347580e11fc26b20985bd1fa1899b17d440453891bbadc6b0243ed8e4c2159a934a195dfe975c507f45a9dcd047b13e75923bd7             1540 main/binary-amd64/Packages.gz
+ f014654198d2abb0d3c5becc7790c1826892f4e616b106b5289705d1e6fe9ea2b4ef7c5be24ccba8bdb65bc74b3aa0865d1a489b5dc310e104844de3ba77e082             3168 main/binary-arm64/Packages
+ 925c9317ca15e3523d405416084e0f5fd6250466303049eaf4f7d31f0a1e7e36c5dcb0e5f20133c7eee44ecae78f8c891a0ac2a2adcaebd5d0440e40b7729052             1540 main/binary-arm64/Packages.gz

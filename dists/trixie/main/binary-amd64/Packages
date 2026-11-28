@@ -1,0 +1,64 @@
+Package: xymon-client
+Architecture: amd64
+Version: 4.3.31-1~~xymon13+1
+Priority: optional
+Section: net
+Source: xymon
+Maintainer: Axel Beckert <abe@debian.org>
+Installed-Size: 1696
+Pre-Depends: debconf | debconf-2.0
+Depends: lsb-release, net-tools, procps, libc6 (>= 2.34), libpcre2-8-0 (>= 10.22), debconf (>= 0.5) | debconf-2.0, systemd | systemd-standalone-sysusers | systemd-sysusers
+Suggests: xymon-plugins | hobbit-plugins
+Breaks: xymon (<< 4.3.30-2)
+Replaces: xymon (<< 4.3.30-2)
+Filename: pool/trixie/xymon-client_4.3.31-1~~xymon13+1_amd64.deb
+Size: 415924
+MD5sum: c3a149f6129144ab9daff7c9b045d7d6
+SHA1: 3611951d2559bc59a1af2b0e4a9a6fdd955afb1a
+SHA256: 801b449c3b5cadedb940070ad0b21c70a4485c4be68e785042174fb7d5028b68
+SHA512: 8e9623ae4ca27592ef372abd96fa5b28b68c9c6e21d8e3556e7d09775f4c2e8252b8d7cb834ff0633907b9c21dbc069306de40056b8d0c9b395bc1bcb25fcc66
+Homepage: https://github.com/xymon-monitoring/xymon
+Description: client for the Xymon network monitor
+ Client data collection package for Xymon (previously known as Hobbit).
+ .
+ This gathers statistics and data from a single system and reports it to
+ the Xymon monitor. You should install this package on all systems if you
+ have a Xymon server running.
+ .
+ Additional checks are available in the package hobbit-plugins.
+Commands: xymoncmd
+
+Package: xymon
+Architecture: amd64
+Version: 4.3.31-1~~xymon13+1
+Priority: optional
+Section: net
+Maintainer: Axel Beckert <abe@debian.org>
+Installed-Size: 12439
+Depends: fping, xymon-client (= 4.3.31-1~~xymon13+1), libc6 (>= 2.34), libcares2 (>= 1.7.0), libldap2 (>= 2.6.2), libpcre2-8-0 (>= 10.22), librrd8t64 (>= 1.3.0), libssl3t64 (>= 3.0.0)
+Recommends: rrdtool, apache2 (>= 2.4.6-4~) | httpd
+Suggests: ntpsec-ntpdig
+Filename: pool/trixie/xymon_4.3.31-1~~xymon13+1_amd64.deb
+Size: 2568740
+MD5sum: 91cfe9e8847f542ab959f847e97e1613
+SHA1: 05848b0f8613689cc782df6d562fe49b97695aaf
+SHA256: 227b669ce947193cb21350afc13bd891e0d9c8ab602e6fba12405a5147f86ede
+SHA512: 87aa3b5e03a290c119fa78f42194457622fbbb3d231ce842dc0a83c72b07c1be9c6490563f87dcb60d097ad24796b8734d52d49bb2e3c8332e3d6b0cde05e445
+Homepage: https://github.com/xymon-monitoring/xymon
+Description: monitoring system for systems, networks and applications
+ Xymon (previously called Hobbit) is a network- and applications-
+ monitoring system designed for use in large-scale networks. But it will
+ also work just fine on a small network with just a few nodes. It is
+ low-overhead and high-performance, with an easy to use web front-end.
+ .
+ Network services are monitored remotely. Machine health and
+ statistics are monitored through a locally installed client package
+ (xymon-client). Additional (remote as well as local) checks are
+ available in the package hobbit-plugins.
+ .
+ Alerts can trigger when monitoring detects a problem, resulting in
+ e-mails or calls to your pager or mobile phone.
+ .
+ Xymon has a great deal of inspiration from the non-free Big Brother
+ package, but does not include any Big Brother code.
+

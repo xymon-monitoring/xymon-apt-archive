@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64 arm64
+Codename: trixie-preview
+Components: main
+Date: Sat, 28 Nov 2026 08:01:58 +0000
+Label: Xymon
+Origin: xymon-apt
+Suite: trixie-preview
+MD5Sum:
+ 08bd2c75f3a16c39ed299a1db87c710e             3158 main/binary-amd64/Packages
+ ffa4ce4b3e1b38aa0543f19bf21631ce             1536 main/binary-amd64/Packages.gz
+ 528090860beb45a1fe958985fd6c5738             3158 main/binary-arm64/Packages
+ a9919f55cc21b636a0e39f9788b9bac0             1536 main/binary-arm64/Packages.gz
+SHA1:
+ 75aa2a101cecd388386f1cf79671ce31cf6ab3a5             3158 main/binary-amd64/Packages
+ 4158a9aa82c5da05335cece0288c849c31920160             1536 main/binary-amd64/Packages.gz
+ fb994b3e6cbd8584343e6cc86ae7ebb90faf97ae             3158 main/binary-arm64/Packages
+ 101236efc35b64c3b42e8b7f2e56090a29de83ad             1536 main/binary-arm64/Packages.gz
+SHA256:
+ 6d04cb6c4288213364be471b616bff6e117d31766331002f1d8fb7eee3a68885             3158 main/binary-amd64/Packages
+ 51590253c3f2ce643a19e0029e875058cd2b69f5a199465b906881b80b1834bd             1536 main/binary-amd64/Packages.gz
+ af373dd4fb2a53c3f9c012d6bc7d2fa6604444ba7d6cbb0b215039c4a3ca03d8             3158 main/binary-arm64/Packages
+ 7137d63d256fa87bed2a35afc0b825b2a0ead51650993289f4d83ad61c3f7a0e             1536 main/binary-arm64/Packages.gz
+SHA512:
+ adf39ce9990f7bda244b4ff014848a4b3497cfadadd63c15a826e26096b604a72a6d71bf2cdbf6a3c866da16a903282eea00fd25c58268736568d06d4b5dcf3c             3158 main/binary-amd64/Packages
+ 26a2d1ee75de9ef6cfe62dfea25f612964f3c79be0bed180345a532bf9ed883c227d03eb8fb4e0d682948abcb53f90609d8e6c4b3d34a96d08cafc67444c16c5             1536 main/binary-amd64/Packages.gz
+ 1d62bd39d74cee04f3aa9c3c1f73062fc20b7c6dcb55c83939029b42a0dce4d23b8467e90d9abc3c1bfe9b258289fa288463c7ea155c392c1aac4f67b4a64a96             3158 main/binary-arm64/Packages
+ 2ef31a5b268072cf2555351f130e9a89042321ce3a011f54ffbf189579ac2e227120e83f1ef9cb7c4eec30c5db00950a7baff26a29d18b40f4a942228a9bee47             1536 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEvST7hxVNVhtm9mbfY53pI6oIkEoFAmsKinYACgkQY53pI6oI
+kEqe7A/9H+xPGDsOcb9r0OV/Z1xhrZC1M0RTK2dYYwV7bvkkpnVqgEVidLF7AMN2
+HDojXDzMgkLHScKewkscXZ4aJg4I+9v4PzUZ/gFlo/tmPCBwVoQ6vKqu5jdCZPlR
+mRU7VGrr0jMLHHPpL29Yp0jR75H3XdSlSOiEIh1TLZZYm6DscCS0Gzje+jTX5wfr
+vesfIgYi+V2khRT33EvGaa65iLDPgPW+tHPJ55TFjGPLzQ8gebUmM5czZ6C6Zfos
+CRDXDKcEDH7o62Ia46SuHpIAVXouiIUcxRzsANB+K33An/44uwelVdnPkhC7ABtM
+HpVv7Tx1vtj+PpKM+iFlb9Lg2eTEVafr5u/9gxm/+PHVPMzO+4kIZd8GFrD5cNEA
+6pNGc0OkwScX2DYFKT14f8b55r+8UUIAYGfT3IitOkJwSf3M3437nb4GpDQR01/p
+ecc8k+nGT59x1GAfmbrbatsBtQVGEW5h+3CVRUxyFePJU1erbi0k7LTlZ+w/O4XI
+/gI3K7HliPYiemZk6+Z4SqLiE4W2jgAuuairBpTTCdSMtYa/hK+KnLBailtpEdGg
+dat8H6NpszOgwTQ7cHt4UOQuEO5PnjYuqhmB+KTxsAMPp8N3n59JwJbhMQCviKfC
+NC4oSeosaHUMNj6849cDII+BTnaQ+KezE+ziT/qiIRhhNCn+F5Y=
+=xt4d
+-----END PGP SIGNATURE-----

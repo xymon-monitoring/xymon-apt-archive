@@ -1,0 +1,27 @@
+Architectures: amd64 arm64
+Codename: bookworm-preview
+Components: main
+Date: Sat, 28 Nov 2026 08:01:57 +0000
+Label: Xymon
+Origin: xymon-apt
+Suite: bookworm-preview
+MD5Sum:
+ ec2d0e24a9aa8692e17a481bc96b5262             3070 main/binary-amd64/Packages
+ a9850805533f0fa9dd48dc3d663a5569             1502 main/binary-amd64/Packages.gz
+ 3365bd17da0c7c206dfef538cdb759d8             3070 main/binary-arm64/Packages
+ d3aec589fca6be3ffbdcedc4dd211a9d             1502 main/binary-arm64/Packages.gz
+SHA1:
+ 15a7f482f872d1eab32b548a8a7140fcb89e1f58             3070 main/binary-amd64/Packages
+ 8ed0279fca754d0ecd39d063060b3330d3fe13ac             1502 main/binary-amd64/Packages.gz
+ 717d60e514ce26e510c8da7ecb5c541710c54afc             3070 main/binary-arm64/Packages
+ 1b315c7ec40d38a316632f6f56f277c9a92dd88c             1502 main/binary-arm64/Packages.gz
+SHA256:
+ 9f21e7c9cc764a4af8640ad7fc27985dd98f8286661839f531cdb32fcf22ce98             3070 main/binary-amd64/Packages
+ 019081bf0243225fe2a594d04cc1ca4a4bdd9618a65834426a689063eef3507f             1502 main/binary-amd64/Packages.gz
+ d64aec86dbaf0f0af2a84ea7e0c73df515e34d7f88e9438995cd3011b5db2ef5             3070 main/binary-arm64/Packages
+ 5e5b55b2e4deb4d9298c08fdc1f5ac4840f030bacf5d45d2ace5eb833a22940c             1502 main/binary-arm64/Packages.gz
+SHA512:
+ d932afbc8a29205666bdfbe3a6ff88dc60e07fcfe560763101c8fd46098b24ddf42672d2f54837c86256c2a8a01ee817d536c580ccfb3a5bfbda948ab1b265f8             3070 main/binary-amd64/Packages
+ 7b0e3817f672da78a5739f5bb7544828a5fe2e657e1dafc94790844a31709692509708087c44465e7b50ac516b227fc62780ca4255ddf62bd066eda19b0743f6             1502 main/binary-amd64/Packages.gz
+ f96928030c00739a6a353316f0db3df29c9d614d046f6156bfeeee8e3f37eafc7bd84c8c2b946432f597cf870bdda1dfc37d1c3d07e8bedf7c1370e8a0f904cd             3070 main/binary-arm64/Packages
+ 0e5e4fe516e63c1f1e211be7ed0b04c4fee1ff7918bcf3b76b0d4bc65e6f5248d408ada427bd38ea9ffc63c9e5a2a52d731cbe2239de85298b599c05bc0ebfd6             1502 main/binary-arm64/Packages.gz

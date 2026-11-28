@@ -1,0 +1,27 @@
+Architectures: amd64 arm64
+Codename: bookworm-snapshot
+Components: main
+Date: Sat, 28 Nov 2026 08:01:57 +0000
+Label: Xymon
+Origin: xymon-apt
+Suite: bookworm-snapshot
+MD5Sum:
+ c919744956053e95306bc2b47efc7ace            12588 main/binary-amd64/Packages
+ e5a2f55f2f9f2accd8fac190b666e5f3             2766 main/binary-amd64/Packages.gz
+ 8e072fff6ead7cf04fad98b907cd3ae1            12588 main/binary-arm64/Packages
+ cbd77eca4ae45136446d8de8a5b4f689             2769 main/binary-arm64/Packages.gz
+SHA1:
+ 9557e98b1b446adfc857b3641879a48d34d366fe            12588 main/binary-amd64/Packages
+ 62f6981dbb2d4b888a3c4e6a950ae70c4f910f53             2766 main/binary-amd64/Packages.gz
+ 58d90fe4deec729fd5a804f2a704ad26ead4249d            12588 main/binary-arm64/Packages
+ 43273ee03a0ea52539809d44efbe7af9d32fa540             2769 main/binary-arm64/Packages.gz
+SHA256:
+ 170f3823c6141b5c5a9e1e64568043bba5bdd6a3761fa9d8c0cd675900f3e2bb            12588 main/binary-amd64/Packages
+ 6f735375708c3edaad15c49fa4720f607b7c7854b6238753eebeb851f2eca69c             2766 main/binary-amd64/Packages.gz
+ 2f725763e12114578972007d4ce2aa67903627d54ba8ef96f6ee7bd5ce0bcab3            12588 main/binary-arm64/Packages
+ 93efc846f2b7fc877f342abf7eba5bc1b2c2abaa8a04ac487ad8ba60577943ce             2769 main/binary-arm64/Packages.gz
+SHA512:
+ 7240061c9ae278ebec4f21c4a065956a7121642b6f79cc126df9c665f0dd8690e244541e353e38b7fb79c21de616ca1713f5c1d3f65ba0ab09d3cb27cd4d4a60            12588 main/binary-amd64/Packages
+ d6890c2063abdf77b51becf842f0c8450e17715f57baf286e8a5ec7100e8c12bdb4cc4ab46513bd49fd8f20f0ef64076a7b31f06f441bf7c247da46319809a60             2766 main/binary-amd64/Packages.gz
+ 5333ae98812018d6f0021474879740bb3ac4259a470e348a2dc62e9d5586eadb8cbc9aff2c3cf53a60b4b0a3c5aae84ab9660df111396e48fe45d004b0263a40            12588 main/binary-arm64/Packages
+ 192549695434075e70e9151eb8466a3f83aba80cc6efa10306acd6d16d05f3af0d75ab970a89091438dc5b62cde1299d5f121b97282a72c8eaf3ceb6f2ec2635             2769 main/binary-arm64/Packages.gz

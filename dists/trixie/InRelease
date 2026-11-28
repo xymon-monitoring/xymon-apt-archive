@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64 arm64
+Codename: trixie
+Components: main
+Date: Sat, 28 Nov 2026 08:01:59 +0000
+Label: Xymon
+Origin: xymon-apt
+Suite: trixie
+MD5Sum:
+ 3af5bcf7dc2d267f8cb66fb2ae78dabe             2979 main/binary-amd64/Packages
+ 2debb7d19b79964a7cfcf7c948ba32dc             1501 main/binary-amd64/Packages.gz
+ 5992439cba8599793a5eaadc7ba5daa3             2979 main/binary-arm64/Packages
+ 138dab50034a867e470f79012e2ca8a7             1504 main/binary-arm64/Packages.gz
+SHA1:
+ f309375881dd7c56aaa5e51f46ac99467414f6a3             2979 main/binary-amd64/Packages
+ 881a9736e3ef2122e4d52ea36fa668d19f84e413             1501 main/binary-amd64/Packages.gz
+ 251e7cbb1b43dd08fba9beae6840dfa2f0dd0c9b             2979 main/binary-arm64/Packages
+ 1f31c5e3ca67791236e2c3465e7d444e5e03260f             1504 main/binary-arm64/Packages.gz
+SHA256:
+ ab1a965ade42effc3825877a3ac93294bdb75e978c1044dc52d88f1b4b8906dd             2979 main/binary-amd64/Packages
+ a7d7215b2f227472ba06b36806df0f74328e7c31023d27b5a5693c545ed631d2             1501 main/binary-amd64/Packages.gz
+ 6791e1ce9b31579be29bce9c45b8561eb6a9af06d3358386cb9e31726efbad3b             2979 main/binary-arm64/Packages
+ 13ea43e27ebcc4d0c12c4ae02c12c3c3c52e27053763d894866f3d144e134169             1504 main/binary-arm64/Packages.gz
+SHA512:
+ 53e650b6a5bcf6a3fd8a5d9011f424959f4c81a3bc99cc15e487a124f676019ce26194f23b544b6678dbea3a53841391fae4df99be0526f4fca4b270a42781c9             2979 main/binary-amd64/Packages
+ 1f8363ef5246be1ce8572992392f6c83d02fb1b2eb571d02d35459a06d5f99594df2823ae2ce3c04cb460a44da57810eea4a728f6e7f8dbc3b9fbcc70a4dc4ec             1501 main/binary-amd64/Packages.gz
+ aae30f7854f0e05d1ec654af22e96bed4a45d02c09dc4f52bbcc1cca255710b6c6f4f8a0123a349e6f8b228fc7ce7bd4eeedbb7b461c7cf49c6971f53469e54b             2979 main/binary-arm64/Packages
+ cc6ad0b4406f140ba7fa21a85852fedb53c6e8efe5de681874addc39cde64f7cd12816eae606578dba76e52808e47d54db22d67ff9016db745b537c06c33054a             1504 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEvST7hxVNVhtm9mbfY53pI6oIkEoFAmsKincACgkQY53pI6oI
+kEq95A/+LGO0beQpDtWqlQ/oANc0Y3wFBlM3ac1WSu1WAgCIkXg69kjhcYcR+hPu
+w5ByivmnbtiJoxMp2khqbyn72usZvGvjj16hIvT6wml61dgBSjU82291pmomUFfm
+5YwVehYGxYF00cOZH6/On/O/GCWoOKZdKy1wzB+QmpXuEtZpWbIWLH8Xu9kaHhqD
+AOJ3PlfYj8LDaotYmDWYsexGPJ2JGKRFN0qb/yCpc3CTA6VLfBmpQF5zzMQ6kKg9
+/HRQbwhFYcpXraRozvXJFPdQ8MvyS5Ool1Be/4yPQ9PHSKGsLlFDibexoMUCtVYX
+1o99GKTJE/mHXVncN3hIJnoAMcQr2Js8/h3k+L/rIHUzLT8oDv4C+wxJjHpfvDu8
+E4eGmGm3MYf0Hv7/5RRgYLjgEtFEOkKXYYIeNfaYJY4xCEumfNviJhPzO2JOneJ2
+muX+VM7EPqEEKY9CEMFCJUkHHo9UAoAMGGiFd3MeKFr245qx0KMYcjGE6YHAiSOR
+LnEyaqUm8brO53CuM7SWGMTHCsXKGti3SBX26molg7tpOw/YICBgtw4AQ1qPEN9o
+W9p4a3KBqS2gKC4JzEnDc6Bi+TjyMrxT10xx+T8DAbBVO56t3FHwnZFyaiNRVLQ7
+o0hVHTafO/vy2e9EJDPCAhcPtEvtwknkvQXDb02vvSI6bUmghHw=
+=08u5
+-----END PGP SIGNATURE-----

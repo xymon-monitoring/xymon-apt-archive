@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64 arm64
+Codename: noble-snapshot
+Components: main
+Date: Sat, 28 Nov 2026 08:01:58 +0000
+Label: Xymon
+Origin: xymon-apt
+Suite: noble-snapshot
+MD5Sum:
+ d594cce6d6f331992a38893cbdb8cc7c            12632 main/binary-amd64/Packages
+ 8a3ed56474aee9c11075398bee2f3382             2768 main/binary-amd64/Packages.gz
+ 788713d1042813b072480ecb3de44a6c            12636 main/binary-arm64/Packages
+ b13130ce088a5939af1cd592df406879             2763 main/binary-arm64/Packages.gz
+SHA1:
+ f1d6ca7c7e31fd7c762f3e667835abca1e3a4198            12632 main/binary-amd64/Packages
+ e60e4c600b2f3bb955e1f58df206cd13d345fe0f             2768 main/binary-amd64/Packages.gz
+ 6072fbf7b9f62e2bdbd83803e7c92f958785e4c8            12636 main/binary-arm64/Packages
+ 9d4000f7b71b942fe184bd3cf8da18b7d4861b77             2763 main/binary-arm64/Packages.gz
+SHA256:
+ e469b01a449d233527389bad140b7f3ed0346b5cca6fb6ac7bed99c872bfb219            12632 main/binary-amd64/Packages
+ 85a5f1768bc7d9dae0a8cd0dc2c8fbe64952229b43902871b48f053eb51ea009             2768 main/binary-amd64/Packages.gz
+ db9849c1fc0e8d524191d2693327c8f5fed57458e8a864f82633976ff7ad0f25            12636 main/binary-arm64/Packages
+ 9fa417492c309279ebd7ae6e37ceecb9f099a98c565b7444b492a7bde5f61fa4             2763 main/binary-arm64/Packages.gz
+SHA512:
+ 981b47c4e0c32629b2cc5bf46cdd27dcc1008fa16bf89f2855f44348c96ae77f6b8a97ea0e74d1d1d6af241fa1705ef4a67636bd4877360605d7938b15147607            12632 main/binary-amd64/Packages
+ 033d704e0da5eccf7d841ce0077605b7f5fcfbe62a26c3338d5a5cd6d773589aa19d52b5279301b099cef1fed5a1ddbda5b597dbf78ee7a657de4c492c1d586f             2768 main/binary-amd64/Packages.gz
+ 040982f2fc71808bd586817a9cdd16baf6afc884c49bd5a45b5d9dd0474309c0b51508252c5d1a33c33f974a88604d16fd7e8e78ca59bf13ee106c0ad635cc01            12636 main/binary-arm64/Packages
+ 4520d450e74aa6019784ef39df736f9252f74942c1cd03a92d4d4b4884663352253e04eacdc3f93ba700894da391af52cdf7896c2c5a1bf979539778fb148914             2763 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEvST7hxVNVhtm9mbfY53pI6oIkEoFAmsKinYACgkQY53pI6oI
+kEqMGg//WVPqTMXygyhSVliBcGlcMkhvkbjB4XZ8kxgSzv150dQEJ7DdpFXfLPTM
+v789GCS0SKswQbdE8RiqeZreormJEugshXBSlgOQs7VBwfFiT/uAtizvw8qvWDsA
+jJe6j7dB6G+pTj0FMZP4Srn2JgwgcBd0kfwDDh/4MLnmElKJaY9LAsYI8NFyITsk
+eOuWEVZDSPKdU9Yqbp9x2dlVi8E4qIfckQW2lBydQbNwhVkDSxamtggOjODQuCyw
+b6pnAPA+YusQwhFzEE9TPa5unQsdyXJX2w3ykC09xCe+2PlIzpEEuUIJMFedgfDw
+RadiNI7OsNx6B1TB1Z4OQVVnUbE/c7UJKVGte6Q/F1O0fRpM9xQwcV3Tn2T8djhR
+aPlySJWV9hYwgA2FkoajLPZRbLJyC+2zaUcRmYGjpi+FSrsm9QlPmW9wsuSi50h2
+n1aEfOK820/GPvr/Y2X/bnDbrMvVzxaOMnHXPIWvBQCrUXqgm6jO8GDFHJT4hDfo
+N+QO7jGrfo65KsTlZ/TI2trNm6nEwoxLifCc0+qdFSRNOTdeJqctfK/pQdTHChks
+GQN+h0xtx3XmDwQJb1mNK3N4AMo9nWdHcS8XV+/b6pAJjTW2jWZTJYYMIIorkx7t
+n/PTh4jLzyhJx9/8O+Q0SxicLCvLVEi/rfrowlCPq97MrvnphUQ=
+=nyWk
+-----END PGP SIGNATURE-----

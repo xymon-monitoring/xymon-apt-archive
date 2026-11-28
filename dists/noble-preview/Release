@@ -1,0 +1,27 @@
+Architectures: amd64 arm64
+Codename: noble-preview
+Components: main
+Date: Sat, 28 Nov 2026 08:01:58 +0000
+Label: Xymon
+Origin: xymon-apt
+Suite: noble-preview
+MD5Sum:
+ 40f9de28ff633d7ab4f2700b4307ce31             3081 main/binary-amd64/Packages
+ 00d5af4d562d07f4b3b5e050da95ac69             1503 main/binary-amd64/Packages.gz
+ ca76392205eaf77b1708dd8cd1bb7806             3082 main/binary-arm64/Packages
+ b075a89131987b8706b1f5950558c373             1504 main/binary-arm64/Packages.gz
+SHA1:
+ d2c8a8da4f9f1a14c399ddc2e4c2f47619d8fba0             3081 main/binary-amd64/Packages
+ e6a7319bee0ad3f1c8ee6adca54699f14c50955b             1503 main/binary-amd64/Packages.gz
+ 7bdfe5a3b16b822327d91d21f060d38df41d4355             3082 main/binary-arm64/Packages
+ 9c27b5f23ca1be42d8107cb338cf530770e22285             1504 main/binary-arm64/Packages.gz
+SHA256:
+ 563e8e6ed629f81217ba5cf2ebe34a317c3fcd1514d14e2dd85f5cafbfda0cbd             3081 main/binary-amd64/Packages
+ 99d2399fd24ace2df706ca7d84a34dbd664b9d06f219f330334883ce75640d49             1503 main/binary-amd64/Packages.gz
+ e01e744ed0c3dac80d232997c279b42745c5aed33fa8848a11a90b0695b9612d             3082 main/binary-arm64/Packages
+ 19f55bd701d1118ab485a257fb67425458b137fc38252b87b5ba55bab59e764a             1504 main/binary-arm64/Packages.gz
+SHA512:
+ e5037379d65d54d6bf32b6736ac2efb6d89bfcecf6a0c64294e2cb4b9a9d9a687d31c1eaafb7946479cf6d2338ddce1d7f994fe070713d55c822e86f5b27d266             3081 main/binary-amd64/Packages
+ d31b7ed8ff0a0b9e7f4aace95afcf04e1cdfc6955854ad81b5a3aa54530bbe21253aa9b1306e0b0e92ddcea85b11fdf5529125edc01027e6eb1d54c50de6f360             1503 main/binary-amd64/Packages.gz
+ 9506578bfb7fae019d3b438804391f49f19f0a5a2425d041017cd875eee02264e1cb00e718bf0c72452d5ce6c387e27ce2c42d65071a3e07c7b9a3a7326f12e5             3082 main/binary-arm64/Packages
+ e0a2e002f7c397d422a14e2bc048e78ee0bde9af652bf7200796332e2067568caa38dd76bc3162287b1573d222b1fffa7697a2ae65f409bce9d7ad9fea99910e             1504 main/binary-arm64/Packages.gz

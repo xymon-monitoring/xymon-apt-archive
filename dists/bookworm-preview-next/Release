@@ -1,0 +1,27 @@
+Architectures: amd64 arm64
+Codename: bookworm-preview-next
+Components: main
+Date: Sat, 28 Nov 2026 08:01:57 +0000
+Label: Xymon
+Origin: xymon-apt
+Suite: bookworm-preview-next
+MD5Sum:
+ 10ad4bf8f2c180372fb5ed957b67f011             3080 main/binary-amd64/Packages
+ b5445041a1fd3d78a3e4a997350960f1             1505 main/binary-amd64/Packages.gz
+ db7060fbe993661eb70c4eaeef7119ba             3080 main/binary-arm64/Packages
+ 34bfd646addfd663d7fc10b71232f8a2             1506 main/binary-arm64/Packages.gz
+SHA1:
+ 42f825542fa94f989dccf39d8bfd3532581894e6             3080 main/binary-amd64/Packages
+ 6c11ae5811ca0ed76869e55a5bb1fc884b8cf797             1505 main/binary-amd64/Packages.gz
+ 0f1edb31ff3fa29dd2b911e557f728d974aa815c             3080 main/binary-arm64/Packages
+ 91dd4f7dc7e38717378928d2be696c36d47161b6             1506 main/binary-arm64/Packages.gz
+SHA256:
+ 245068902509012326b0d8b28f89b73545587ed67c1adb36983334374fc23210             3080 main/binary-amd64/Packages
+ 3cb2b6ed4db65e1b15a1ea86ecbf63561bf97a659d6842718713d8d79460414e             1505 main/binary-amd64/Packages.gz
+ 5ecb2165ec7cab963f9e82733763e80cca2122bb42049fcaea769243dc456c88             3080 main/binary-arm64/Packages
+ 47fd6403a7677e6b4b36db3611fdac1c02312de4d2c3cf31808cfc0e5c659c68             1506 main/binary-arm64/Packages.gz
+SHA512:
+ 5e7908bea2bfc5bbf146e7c872899961b1d96dd8c297a4814df9d12d2f349b8fb4a64db774b9c93beacc23f27bff226cd2db3a7b1578863474aec24de94ad003             3080 main/binary-amd64/Packages
+ 2bb467ad573ca85d1d03803ea1fe3de267da0b048d5a7da0446b564b1a25b7bc6725618d5ecd99b21564775c88f05cbf66fb4f5652878e45e28e83d7635bd38b             1505 main/binary-amd64/Packages.gz
+ badc66c1a02759058b325f7b76bb744213048e1aea71cb4359e7bf88749c94640f8c9c2bf0e55d007868ee336296c3d6c3e1264caedd651f0e158f6957080a32             3080 main/binary-arm64/Packages
+ 4fd9ad6fbd4b4c86b76f4b587cd8ea9a5e1e3ddf0bade54e3a946f3e7f26f796c3daef2f28ecdc8556575b793af581fa6be2bfa3a8a95687716f4b3ad1fb7e74             1506 main/binary-arm64/Packages.gz

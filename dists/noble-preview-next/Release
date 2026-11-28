@@ -1,0 +1,27 @@
+Architectures: amd64 arm64
+Codename: noble-preview-next
+Components: main
+Date: Sat, 28 Nov 2026 08:01:58 +0000
+Label: Xymon
+Origin: xymon-apt
+Suite: noble-preview-next
+MD5Sum:
+ d2dba2bb7a6424b73cca7cab741dabc8             3091 main/binary-amd64/Packages
+ afac3e5b6375fd9b1b41efde6c653e37             1507 main/binary-amd64/Packages.gz
+ 613d97b61822bf35225f8a116d6e0142             3092 main/binary-arm64/Packages
+ 684fc35945e957c8df0d0622b2294931             1506 main/binary-arm64/Packages.gz
+SHA1:
+ cebf0c56592927b643ca0dee22a1676189c9b4f7             3091 main/binary-amd64/Packages
+ cfc8ba1478e3f0cb366cfddd253e606e096de809             1507 main/binary-amd64/Packages.gz
+ 6953dcc0d2655cb129066fe5935ad0077d74c666             3092 main/binary-arm64/Packages
+ c44f77d734b31fec9164980ab34ef54442c5fa6c             1506 main/binary-arm64/Packages.gz
+SHA256:
+ 2945287f1d3ce17ce90189cce5e18344d9cdf3574dc37c6650d9e30cc305d174             3091 main/binary-amd64/Packages
+ cfe56ba66e9439fae0ffb70527dc4b18bebdbe2e77258cc24d931a9e605cd616             1507 main/binary-amd64/Packages.gz
+ 2d4011d3e4ad90c98a7d67c1ff62a02015750bcbc5359d475f187f6592c1f974             3092 main/binary-arm64/Packages
+ bb14002d49e43072a3dfc40019c1f826773569a45931a3cd37668ea50c8b7672             1506 main/binary-arm64/Packages.gz
+SHA512:
+ 399bc809ec088f0b15a00448f2cda6c93d505dad51d5b9c398e84e10f00dc1b06af481859fd810226f80ea39e3dd649eb2ad428ee888d604e1becaeea4d9090a             3091 main/binary-amd64/Packages
+ 11de122faf073410c88bb351614de61891190297e69d57cb6073ca192267e1e390329d8dae71d3b9f17411c1ebfa22fd7e0f720134dc6e2e161263b3df1ab07a             1507 main/binary-amd64/Packages.gz
+ 4c447459bd4d9fbf7e9e9de7cd1de004159a520c06488a052326fa669385b012715b9cf3cebb80c06f6510b68a05e3ff85aaeb4245e90a7eed7cbdbf13e3c269             3092 main/binary-arm64/Packages
+ 4e4dd546bb5b8f20ed38d5d5ca711befc1a3b6e4ebc99deaa19e76940ccbe6565c6967a05569d3f8bdcc5c065b97e04ee447c3f504238b1621b74c24f7a74092             1506 main/binary-arm64/Packages.gz
